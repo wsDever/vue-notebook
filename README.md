@@ -1,6 +1,6 @@
 # vue-notebook
 
-> 一个基于vue的单机记事本，依赖vue-router,vuex,element-ui
+> 一个基于vue的单机记事本，依赖vue-router、vuex、element-ui
 
 ## Run Setup
 
